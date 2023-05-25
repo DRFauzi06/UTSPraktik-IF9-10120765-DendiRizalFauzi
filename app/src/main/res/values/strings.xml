@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UTSPraktik-IF9-10120765-DendiRizalFauzi</string>
+    <string name="ppdb">Pelaksanaan PPDB Tahap 1 - 2023</string>
+    <string name="persiapan">Persiapan</string>
+    <string name="Tanggal">17 Mei - 05 Juni 2023</string>
+    <string name="Announce">Pengumuman Hasil Seleksi</string>
+    <string name="Announ1">Anda dinyatakan tidak diterima di</string>
+    <string name="Announ2">SMA Negeri 1 Balonggede</string>
+    <string name="Announ3">Jalur Prestasi Kejuaraan</string>
+    <string name="Layanan">Layanan PPDB</string>
+    <string name="Lokasi">Kota Bandung</string>
+    <string name="ppdb1">Info Sekolah PPDB</string>
+    <string name="ppdb2">Sosialisasi PPDB</string>
+    <string name="ppdb3">Pendaftaran PPDB Tahap 1</string>
+    <string name="ppdb4">Pengumuman PPDB Tahap 1</string>
+    <string name="ppdb5">Hotline</string>
+    <string name="berita">Berita Terkait PPDB</string>
+    <string name="kberita">Pendidikan</string>
+    <string name="berita2">Dapatkan semua informasi terbaru dan terpopuler terkait PPDB</string>
+
+    <string name="dberita1">PPDB SMA/SMK 2022, Ridwan Kamil: PPDB di Jawa Barat...</string>
+    <string name="dberita2">Persiapan PPDB Jabar Tahun 2021 sudah matang</string>
+    <string name="dberita3">Pelaksana Teknis PPDB Harus Evaluasi Diri</string>
+    <string name="dberita4">Masih Ditemukan \'Blank Spot\' dalam Proses PPDB Kabupate...</string>
+    <string name="dberita5">Bupati Purwakarta Hadiri Pembukaan Masa Pengenalan...</string>
+
+    <string name="wberita1">15 jam lalu</string>
+    <string name="wberita2">4 Juni 2022</string>
+    <string name="wberita3">24 Mei 2022</string>
+    <string name="wberita4">24 Mei 2022</string>
+    <string name="wberita5">19 Juli 2022</string>
+    <string name="lihat">Lihat Semua Berita</string>
+
+
+</resources>
